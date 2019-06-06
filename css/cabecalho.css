@@ -45,3 +45,23 @@ body {
     top: 530px;
     left: 15%;
 }
+
+.menu {
+    margin-left: 60px;
+    padding-right: 60px;
+    border-right-width: 2px;
+    border-right-style: solid;
+    border-right-color: #ffffff;
+}
+
+nav {
+    background-color: #282c34;
+    opacity: 0.8;
+    position: absolute;
+}
+
+.imagem-menu {
+    width: 22px;
+    height: 13px;
+    margin-left: 60px; 
+}
