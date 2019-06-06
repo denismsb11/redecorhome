@@ -1,0 +1,43 @@
+.newsletter-titulo {
+    font-family: Agency FB;
+    font-size: 30px;
+    font-weight: bold;
+    padding: 10px;
+}
+
+input #input-newsletter {
+    padding-bottom: 7px;
+    padding-top: 7px;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 20px;
+    margin-bottom: 40px;
+}
+
+footer{
+    padding: 50px;
+    color: #ffffff;
+    background-color: #222222;
+    margin-top: 50px;
+}
+
+.texto-footer {
+    line-height: 2;
+}
+
+h6 {
+    font-weight: bold;
+}
+
+.input-center {
+    background-color: #ffffff;
+    border-radius: 25px; 
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.tabs .tab a:hover, .tabs .tab a.active #tabcor{
+    background-color: transparent;
+    color: #3478dd;
+}

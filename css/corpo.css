@@ -1,0 +1,92 @@
+p {
+    line-height: 0.8;
+}
+
+#tab1 { background-color: #383838; } #tab2 { background-color: #7C7880;} #tab3 { background-color: #A3A2A9; }
+
+.foto-normal {
+    width: 200px;
+    height: 150px;
+}
+
+.foto-maior {
+    height: 100%;
+}
+
+.foto-sobre {
+    height: 270px;
+}
+
+.alinhados {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+#tecelagem {
+    margin: 22px;
+    background-color: #ffffff;
+}
+
+.card-rede {
+    margin-bottom: 10px;
+}
+
+.nome-rede {
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.carregar-redes {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-top-width: 1px;
+    border-bottom-width: 1px;
+    border-top-style: solid;
+    border-top-color: #383838;
+    font-size: 15px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;    
+}
+
+
+body {
+    margin: 0;
+}
+
+.subir {
+    position: relative;
+    top: -200px;
+}
+
+.refresh {
+    width: 20px;
+    height: 20px;
+}
+
+.subir-newsletter {
+    position: relative;
+    top: -120px;
+}
+
+.organiza-cards {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.botao-corpo {
+    font-size: 12px;
+    color: #ffffff;
+    padding-top: 7px;
+    padding-bottom: 7px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius: 30px;
+    background-color: #282c34;
+}
+
+.icon-botao {
+    background-color: #282c34;
+}

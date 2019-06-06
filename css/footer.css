@@ -1,0 +1,9 @@
+.icons-alinhados {
+    display: flex;
+    justify-items: auto;
+}
+
+.espaco {
+    margin: 5px;
+}
+

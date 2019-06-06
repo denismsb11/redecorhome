@@ -1,0 +1,25 @@
+.blog-titulo {
+    font-weight: bold;
+    padding: 40px;
+}
+
+.card-amarelo {
+    padding: 7px;
+    background-color: #EABB4C;
+    font-size: 13px;
+}
+
+.sobre-blog {
+    line-height: 2.0;
+}
+
+.blog-foto1 {
+    background-image: url(../fotos/shutterstock_563453461.jpg);
+    width: 300px;
+    height: 300px;
+}
+
+.box-blog {
+    display: flex;
+    flex-direction: column;
+}
