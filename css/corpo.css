@@ -4,32 +4,23 @@ p {
 
 #tab1 { background-color: #383838; } #tab2 { background-color: #7C7880;} #tab3 { background-color: #A3A2A9; }
 
-.foto-normal {
-    width: 200px;
-    height: 150px;
-}
-
-.foto-maior {
-    height: 100%;
-}
-
 .foto-sobre {
     height: 270px;
 }
 
-.alinhados {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-}
-
 #tecelagem {
-    margin: 22px;
+    margin: 12px;
     background-color: #ffffff;
 }
 
-.card-rede {
-    margin-bottom: 10px;
+#mesaposta {
+    margin: 12px;
+    background-color: #ffffff;
+}
+
+#decoracao {
+    margin: 12px;
+    background-color: #ffffff;
 }
 
 .nome-rede {
@@ -37,19 +28,11 @@ p {
     margin-bottom: 10px;
 }
 
-.carregar-redes {
-    padding-top: 25px;
-    padding-bottom: 25px;
-    border-top-width: 1px;
-    border-bottom-width: 1px;
-    border-top-style: solid;
-    border-top-color: #383838;
-    font-size: 15px;
-    display: flex;
-    flex-direction: row;
-    justify-content: center;    
+.texto-sobre {
+    line-height: 2;
+    margin: 25px;
+    text-align: justify;
 }
-
 
 body {
     margin: 0;
@@ -88,5 +71,10 @@ body {
 }
 
 .icon-botao {
+    background-color: #282c34;
+}
+
+
+.slider .indicators .indicator-item.active {
     background-color: #282c34;
 }

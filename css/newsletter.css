@@ -37,8 +37,3 @@ h6 {
     justify-items: center;
 }
 
-.tabs .tab a:hover, .tabs .tab a.active #tabcor{
-    background-color: transparent;
-    color: #3478dd;
-}
-
