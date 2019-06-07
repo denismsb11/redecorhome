@@ -1,4 +1,10 @@
 //Tabs
 $(document).ready(function(){
-    $('.tabs').tabs();
-  });
+  $('.tabs').tabs();
+});
+
+//Modal
+$(document).ready(function(){
+  $('.modal').modal();
+});
+        
